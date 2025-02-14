@@ -1,4 +1,4 @@
-# Text to image
+# Text to Image
 
 [![Code Coverage](https://img.shields.io/coveralls/bostrom/text-to-image.svg)](https://coveralls.io/github/bostrom/text-to-image)
 [![Npm Version](https://img.shields.io/npm/v/text-to-image.svg)](https://www.npmjs.com/package/text-to-image)
